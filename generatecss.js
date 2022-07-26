@@ -67,7 +67,7 @@ function generatecss(data){
         z-index: 32;
         transition: 0.3s;
         backdrop-filter: blur(5px);
-        color: #1E1E28;
+        color: ${data.secondarycolor};
     }
     .header-right {
         margin-right: 40px;

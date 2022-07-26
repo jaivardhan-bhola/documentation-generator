@@ -18,12 +18,11 @@ function generatehtml(data) {
     <script src="https://kit.fontawesome.com/d5db5a9cd6.js" crossorigin="anonymous"></script>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./assets/style.css">
 
     <meta content="${data.title}" property="og:title">
     <meta content="${data.description}" property="og:description">
-    <meta content="https://foxl.design/mind" property="og:url">
-    <meta content="https://foxl.design/mind/icon.png" property="og:image">
+
 </head>
 <body>
     <div class="content" id="content">
@@ -89,7 +88,7 @@ function generatehtml(data) {
     </div>
     
 
-    <script src="./script.js"></script>
+    <script src="./assets/script.js"></script>
 </body>
 </html>
   <br>

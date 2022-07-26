@@ -90,10 +90,10 @@ function init() {
       var file = data.directory + "/index.html";
       console.log("Generating index.html...");
       writeToFile(file, generatehtml({...data}));
-      var file = data.directory + "/style.css";
+      var file = data.directory + "/assets/style.css";
       console.log("Generating style.css...");
       writeToFile(file, generatecss({...data}));
-      var file = data.directory + "/script.js";
+      var file = data.directory + "/assets/script.js";
       console.log("Generating script.js...");
       writeToFile(file, generatejs());
         
