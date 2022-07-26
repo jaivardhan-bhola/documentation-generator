@@ -89,7 +89,7 @@ function generatehtml(data) {
     </div>
     
 
-    <script src="./assets/script.js"></script>
+    <script src="./script.js"></script>
 </body>
 </html>
   <br>
