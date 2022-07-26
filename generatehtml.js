@@ -64,7 +64,7 @@ function generatehtml(data) {
                     </div>
                 </div>
                 <div class="summary-item">
-                    <img class="summary-item-image image-popup-opener" src="./assets/media/1.png" onclick="openImagePopup('./assets/media/3.png')">
+                    <img class="summary-item-image image-popup-opener" src="./assets/media/3.png" onclick="openImagePopup('./assets/media/3.png')">
                     <div class="summary-item-caption">
                         <p class="summary-item-title">${data.deschead3}</p>
                         <p class="summary-item-desc">${data.desc3}</p>
