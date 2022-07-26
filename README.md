@@ -42,7 +42,8 @@ npm install
 
 # Usage
 <li> Create docs directory
-<li> Create assets folder
+<li> Create assets directort
+<li> Create media directory
 <li> Add images according to description number {1.png, 2.png,....}
 <li> Run
 
